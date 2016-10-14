@@ -531,7 +531,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [x] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
         - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
