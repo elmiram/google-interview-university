@@ -288,7 +288,7 @@ Each card has different formatting.
 
 I made a mobile-first website so I could review on my phone and tablet, whereever I am.
 
-Make your own for free:
+[x] Make your own for free:
 
 - [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
 - [My flash cards database](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db): Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required by Google.
@@ -379,6 +379,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+
+- [ ] Big-O Notation (Chapter 0.3 from *Algorithms* S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani.)
+- [ ] Do exercises from the book.
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
