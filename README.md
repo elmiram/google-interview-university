@@ -380,8 +380,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-- [ ] Big-O Notation (Chapter 0.3 from *Algorithms* S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani.)
+- [x] Big-O Notation (Chapter 0.3 from *Algorithms* S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani.)
 - [ ] Do exercises from the book.
+    - [x] 0.1. a-h
+    - [ ] 0.1 i-q
+    - [ ] 0.2 - 0.4
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
